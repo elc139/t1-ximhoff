@@ -6,7 +6,7 @@ Nome: < preencha seu nome aqui >
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |Santos Dumont (SDumont)|Dell Inspiron-5558|
-| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> |<img src="https://eastasiaeg.com/content/images/thumbs/0013361_dell-inspiron-5558-core-i3-4005u.jpeg" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://s03.video.glbimg.com/x720/6117778.jpg" width="48"> |<img src="https://eastasiaeg.com/content/images/thumbs/0013361_dell-inspiron-5558-core-i3-4005u.jpeg" width="48">|
 | Classificação de Flynn                                    |                       |                 |
 | Memória: compartilhada, distribuída ou ambas?             |                       |                 |
 | Número total de núcleos de processamento                  |                       |                 |
